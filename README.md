@@ -103,3 +103,4 @@ bilal@dev:~$ █
 ---
 
 <sub>© 2026 Mohammad Bilal Siddiqui. Built with vanilla HTML5, CSS3 & JavaScript — no frameworks, no build step.</sub>
+
